@@ -33,6 +33,8 @@ Trove is a comprehensive book management application designed to empower book en
 - React Router DOM
 - Semantic UI React and Semantic UI CSS
 - date-fns and date-fns-tz
+- Formik
+- Yup Library
 - Python
 - Flask
 - Flask-RESTful
